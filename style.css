@@ -4,7 +4,6 @@ html {
 
 body {
     background-color:rgba(44, 48, 46, 0);
-    background-image: url(images/048-pizza-inside\ \(2\).jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -20,12 +19,13 @@ body {
 }
 
 header {
-
+    background-color: rgb(0, 0, 0);
     height: 118px;
-    color: aliceblue;
+    color: black;
     font-size: 40px;
     text-align: center;
     font-style: italic;
+    
 }
 
 
@@ -36,11 +36,12 @@ nav {
     text-align: center;
     padding-top: 14px;
     padding-bottom: 14px;
-
+    font-family: Arial, Helvetica, sans-serif;
+  
 }
 
 main {
-    
+    background-color: black;
     height: 400px;
     text-align: center;
     padding-top: 80px;
