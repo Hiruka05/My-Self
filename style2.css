@@ -35,8 +35,12 @@ padding-bottom: 14px;
 a {
 color: white;
 font-family: Arial, Helvetica, sans-serif;
- text-decoration:underline;
+text-decoration: underline;
 
+}
+
+nav a {
+    text-decoration: none;
 }
 
 
@@ -54,3 +58,17 @@ font-family: Arial, Helvetica, sans-serif;
         padding-left: 240px;
         padding-right: 240px;
     }
+    .fa-instagram {
+        background: #12578800;
+        color: white;
+        text-decoration: none;
+      }
+
+ footer {
+    background-color: rgb(68, 68, 68);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-size: 20px;
+
+ }
